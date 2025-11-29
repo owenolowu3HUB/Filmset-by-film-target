@@ -1,0 +1,5 @@
+{
+  "name": "Filmset version 12",
+  "description": "An AI-powered app that ingests a movie script and produces a complete professional breakdown, including structural analysis and a full pitch deck, using Google's Gemini AI. Created by Owen Olowu",
+  "requestFramePermissions": []
+}
